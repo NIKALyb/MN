@@ -1,0 +1,10 @@
+def cl():
+    a = list(input())
+    print(a)
+    a1 = a.count(1)
+    a2 = a.count(2)
+    a0 = a.count(0)
+    print(a1)
+    print(a2)
+    print(a0)
+cl()
